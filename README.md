@@ -15,7 +15,7 @@ In this project I only used Html & Css, there are __NO__
 
 ## Screenshot 📸
 
-<img src="/Users/bbestamis/Desktop/Windows/ticket.png" alt="Screen Shoooot" style="zoom:33%;" />
+<img src="/md pic/ticket.png" alt="Screen Shoooot" style="zoom:33%;" />
 
 ## Do you like it 🚀
 
